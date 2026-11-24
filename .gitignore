@@ -1,0 +1,23 @@
+# Secrets - copy .env.example to .env locally; never commit .env
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+my_env/
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+dist/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
