@@ -24,3 +24,6 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
 5. Open Swagger UI at `http://localhost:8000/docs`
+## Author
+
+**Sparsh Khanal** · [GitHub](https://github.com/Sparsh-khanal75) · [LinkedIn](https://www.linkedin.com/in/Sparsh-khanal75)
