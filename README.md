@@ -1,5 +1,11 @@
 This starter includes a FastAPI app with SQLAlchemy async models and an Inventory router implemented.
 
+## Planned dashboard (concept mockup)
+
+> This image is a **design mockup with fictional sample data**, not a screenshot of the running app. The frontend (`mcp-dashboard/`) has not been built yet. The mockup shows what it will display from the existing API: inventory alerts, supplier risk and trust scores, and the linear-regression demand forecast. Its source is [`docs/mockups/dashboard-concept.html`](docs/mockups/dashboard-concept.html).
+
+![Concept mockup of the supply chain dashboard](docs/mockups/dashboard-concept.png)
+
 ## Setup
 1. Create a virtualenv and install requirements:
 
